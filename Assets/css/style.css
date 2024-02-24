@@ -24,6 +24,17 @@ textarea {
   border-top: 1px solid white;
 }
 
+
+span  {
+  color: red;
+}
+
+#appointmentDiv {
+  display: flex;
+  justify-content: center;
+  visibility: hidden;
+}
+
 .hour {
   background-color: #ffffff;
   color: #000000;
