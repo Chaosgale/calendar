@@ -47,7 +47,7 @@ HTML, CSS (Bootstrap), JavaScript (jQuery), Day.js
 ![Screenshot](<Assets/img/Screenshot .png>)
 
 ## URL to deployed application
-
+https://chaosgale.github.io/calendar/
 
 ## Credits
 
